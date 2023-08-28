@@ -5,3 +5,5 @@ uploaded to the jupyter notebook .
 For visualization , I have installed pandas_profiling. It is an excellent library  for profiling of the data and to visualize the overall condition of the dataset. I am really
 amazed by this library
 Finally I have done some basic data exploration by different mathematical operations 
+
+ON the second part I have used google colab
